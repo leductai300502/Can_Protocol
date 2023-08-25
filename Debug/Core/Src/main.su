@@ -1,0 +1,16 @@
+main.c:80:6:Setup_TxHeaderECU	4	static
+main.c:91:6:Init_Tester	16	static
+main.c:110:6:Init_ECU	4	static
+main.c:138:6:Compare_key	16	static
+main.c:163:6:Calculator_Key	16	static
+main.c:172:6:Generate_Seed	16	static
+main.c:183:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:202:6:Processing_ECU	8	static
+main.c:226:6:Processing_Tester	8	static
+main.c:243:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+main.c:290:5:main	16	static
+main.c:373:6:SystemClock_Config	88	static
+main.c:417:13:MX_CAN1_Init	48	static
+main.c:469:13:MX_CAN2_Init	48	static
+main.c:518:13:MX_GPIO_Init	48	static
+main.c:564:6:Error_Handler	4	static,ignoring_inline_asm
